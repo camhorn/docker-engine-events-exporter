@@ -1,6 +1,6 @@
 certifi==2022.9.14
 charset-normalizer==2.1.1
-docker==6.0.0
+docker==7.1.0
 idna==3.4
 packaging==21.3
 prometheus-client==0.14.1
